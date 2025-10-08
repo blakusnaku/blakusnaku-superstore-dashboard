@@ -1,7 +1,7 @@
 # Superstore Interactive Dashboard (Excel)
 
 Interactive Excel dashboard with slicers (Category, Segment), KPI cards (Total Sales, Total Profit), and a Sales vs Profit combo chart by Region.
- 
+
 ---
 
 ## Preview
